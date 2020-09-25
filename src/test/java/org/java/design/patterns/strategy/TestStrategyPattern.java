@@ -11,7 +11,7 @@ import org.java.design.patterns.statergy.concrete.Duck;
 import org.java.design.patterns.statergy.concrete.MallardDuck;
 import org.junit.jupiter.api.Test;
 
-public class TestMallardDuck {
+public class TestStrategyPattern {
 
     @Test
     public void test_mallard_duck_can_fly_and_quack(){
